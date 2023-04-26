@@ -16,7 +16,7 @@ img {width: 100%;}
 }
 
 .post{
-    border: 2px solid rgb(239, 76, 12);
+
     width: 400px;
     background-color: white;
     
@@ -29,7 +29,7 @@ img {width: 100%;}
 
 header {
    padding: 10px;
-   border: 1px solid lightseagreen;
+  
     display: flex;
     height: 40px; 
    
@@ -84,14 +84,14 @@ header {
 
 .text-container{
     padding: 10px    ;
-    border:  1px solid lightseagreen;
+    
 }
 
 .icons-img {
     display: flex;
     padding: 5px;
     align-items:center;
-    border:  1px solid lightseagreen;
+   
     
 }
 
@@ -113,8 +113,8 @@ header {
 }
 
 .likedby {
-    border:  1px solid lightseagreen;
+  
 }
 .description-txt {
-    border:  1px solid lightseagreen;
+    
 }
