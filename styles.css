@@ -1,0 +1,120 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+   
+
+ 
+  
+}
+
+img {width: 100%;}
+
+.parent{
+    justify-content: center;
+    display: flex;
+}
+
+.post{
+    border: 2px solid rgb(239, 76, 12);
+    width: 400px;
+    background-color: white;
+    
+    flex-wrap: wrap;
+    padding-bottom: 0px;
+    align-items: center;
+ 
+}
+
+
+header {
+   padding: 10px;
+   border: 1px solid lightseagreen;
+    display: flex;
+    height: 40px; 
+   
+    
+}
+
+
+.iconHTML5 {
+    width: 30px;
+    height: 30px;
+    justify-content: flex-start;
+    padding-right: 20px;
+    
+}
+
+
+#html5Rigobertoheader{
+    
+    justify-content: flex-start;
+    align-items: flex-start;
+   
+    height: 30px;
+    margin: -12px;
+    padding: 0px;
+    line-height: 4%
+}
+#html5-text {
+    font-size: 20px;
+}
+#Rigoberto {
+    font-size: 20px;
+}
+
+.icon3dots {
+    width: 10px;
+    height: 10px;
+    justify-content: flex-end;
+    padding-left: 250px;
+    position: relative;
+    
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 1 70%;
+    max-width: auto;
+ 
+    
+}
+
+.text-container{
+    padding: 10px    ;
+    border:  1px solid lightseagreen;
+}
+
+.icons-img {
+    display: flex;
+    padding: 5px;
+    align-items:center;
+    border:  1px solid lightseagreen;
+    
+}
+
+#likeButton, #commentButton, #sendButton  {
+    height: 30px;
+    width: 30px;
+    justify-content: flex-start;
+    padding-right: 10px;
+}
+
+#bookmarkButton {
+    height: 22px;
+    width: 22px;
+    justify-content: flex-end;
+    align-items:flex-start;
+    padding-left: 230px;
+    
+ 
+}
+
+.likedby {
+    border:  1px solid lightseagreen;
+}
+.description-txt {
+    border:  1px solid lightseagreen;
+}
